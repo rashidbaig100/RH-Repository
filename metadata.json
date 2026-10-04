@@ -1,0 +1,6 @@
+{
+  "name": "RH Business Solutions",
+  "description": "Global Financial, Healthcare Billing, Tax & Business Solutions for USA, Canada, and international organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
